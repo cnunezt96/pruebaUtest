@@ -1,0 +1,30 @@
+{
+  "name": "pruebas",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^9.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cnunezt96/pruebaUtest.git"
+  },
+  "keywords": [
+    "test",
+    "e2e",
+    "cypress",
+    "automation"
+  ],
+  "author": "camilo nuñez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cnunezt96/pruebaUtest/issues"
+  },
+  "homepage": "https://github.com/cnunezt96/pruebaUtest#readme"
+}

@@ -1,0 +1,5 @@
+{
+    "baseUrl": "https://utest.com/",
+    "pageLoadTimeout": 60000,
+    "failOnStatusCode": false
+}
